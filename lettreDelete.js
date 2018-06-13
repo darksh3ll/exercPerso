@@ -22,4 +22,4 @@ console.log(`Je viens d'effacer ${compteur} ${letterDelete}`);
 //Prototype Slice exemple :
 
 const arr = ['bernard','coucou,','pierre']
-console.log(arr.slice(1));
+console.log(arr.slice(1)); // efface bernard
