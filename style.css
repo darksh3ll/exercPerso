@@ -1,0 +1,35 @@
+html,body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+
+    width: 100%;
+    height: 600px;
+    background: url(img/Route_dans_le_desert_1920x1080.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.none {
+    display: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+   font-size: 42px;
+    opacity: 0.5;
+}
+
+.fa-spin {
+    font-size:96px;
+    color: white;
+    opacity: 0.5;
+}
